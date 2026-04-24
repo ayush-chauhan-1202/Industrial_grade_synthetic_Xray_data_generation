@@ -103,12 +103,12 @@ The phantom models a **cross-section of a cylindrical industrial component** —
                 │   Polymer shell  (0.18) │  ← outer protection / composite wrap
                 │  ┌───────────────────┐  │
                 │  │  Aluminium body   │  │  ← structural material + corrosion zone
-                │  │  ┌───────────┐   │  │
-                │  │  │  Steel    │   │  │  ← inner load-bearing sleeve
-                │  │  │  ┌─────┐ │   │  │
-                │  │  │  │ WC  │ │   │  │  ← tungsten-carbide core pin
-                │  │  │  └─────┘ │   │  │
-                │  │  └───────────┘   │  │
+                │  │  ┌───────────┐    │  │
+                │  │  │  Steel    │    │  │  ← inner load-bearing sleeve
+                │  │  │  ┌─────┐  │    │  │
+                │  │  │  │ WC  │  │    │  │  ← tungsten-carbide core pin
+                │  │  │  └─────┘  │    │  │
+                │  │  └───────────┘    │  │
                 │  └───────────────────┘  │
                 └─────────────────────────┘
                          (μ in cm⁻¹)
