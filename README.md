@@ -1,7 +1,7 @@
 # Industrial-Grade Synthetic X-ray Data Generation
 
 <p align="center">
-  <img src="results/figures/stage1_summary.png" alt="Stage 1 Summary" width="900"/>
+  <img src="figures/stage1_summary.png" alt="Stage 1 Summary" width="900"/>
 </p>
 
 > A physics-aware pipeline for generating fully synthetic, customisable, industrially-relevant cone-beam CT datasets — complete with realistic material composition, six defect classes, and a five-stage noise model grounded in detector physics.
